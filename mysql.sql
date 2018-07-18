@@ -12,3 +12,5 @@ CREATE TABLE `z_bkxqhx` (
   PRIMARY KEY (`id`),
   KEY `hxid` (`hxid`)
 ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
+
+111
